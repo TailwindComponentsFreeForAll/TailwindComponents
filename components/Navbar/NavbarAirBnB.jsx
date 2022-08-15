@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Navbar = () => {
+const NavbarAirBnB = () => {
   return (
     <nav class=" bg-white w-full flex relative justify-between items-center mx-auto px-8 h-20">
    
@@ -114,4 +114,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default NavbarAirBnB;
